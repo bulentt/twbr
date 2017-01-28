@@ -1,1 +1,1 @@
-Twitter Sentiment Checker
+Twitter Sentiment Checker v2
